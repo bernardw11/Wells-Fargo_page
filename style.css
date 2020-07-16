@@ -1,0 +1,18 @@
+footer{
+  background-color: lightgray;
+}
+
+.red{
+  background-color: red;
+}
+
+.white{
+  color: white;
+}
+.merriweather{
+  font-family: 'Merriweather', serif;
+}
+/* .centered{
+  margin-left: 10%;
+  margin-right: 10%;
+} */
